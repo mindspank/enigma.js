@@ -8,7 +8,7 @@ This example will show you how to create a string expression and evaluate it.
 
 ## Documentation
 
-* [Qlik Sense Help: String Expression](https://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/Structs/StringExpression.htm)
+* [Qlik Sense Help: String Expression](https://help.qlik.com/en-US/sense-developer/apis/EngineAPI/definitions-StringExpression.html)
 ---
 
 [Back to examples](/examples/README.md#runnable-examples)

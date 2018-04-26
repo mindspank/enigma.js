@@ -9,9 +9,9 @@ in it.
 
 ## Documentation
 
-* [Qlik Sense Help: List Object definition](http://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/ListObjectDef.htm)
-* [Qlik Sense Help: List Object layout](http://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/GenericObject/LayoutLevel/ListObject.htm)
-* [Qlik Sense Help: `selectListObjectValues()`](http://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/Classes/GenericObjectClass/GenericObject-class-SelectListObjectValues-method.htm)
+* [Qlik Sense Help: List Object definition](https://help.qlik.com/en-US/sense-developer/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/ListObjectDef.htm)
+* [Qlik Sense Help: List Object layout](https://help.qlik.com/en-US/sense-developer/Subsystems/EngineAPI/Content/GenericObject/LayoutLevel/ListObject.htm)
+* [Qlik Sense Help: `selectListObjectValues()`](https://help.qlik.com/en-US/sense-developer/apis/EngineAPI/services-GenericObject-SelectListObjectValues.html)
 ---
 
 [Back to examples](/examples/README.md#runnable-examples)

@@ -11,8 +11,8 @@ a specific type.
 
 ## Documentation
 
-* [Qlik Sense Help: qAppObjectListDef](https://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/AppObjectListDef.htm)
-* [Qlik Sense Help: qFieldListDef](https://help.qlik.com/en-US/sense-developer/June2017/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/FieldListDef.htm)
+* [Qlik Sense Help: qAppObjectListDef](https://help.qlik.com/en-US/sense-developer/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/AppObjectListDef.htm)
+* [Qlik Sense Help: qFieldListDef](https://help.qlik.com/en-US/sense-developer/Subsystems/EngineAPI/Content/GenericObject/PropertyLevel/FieldListDef.htm)
 
 ---
 
